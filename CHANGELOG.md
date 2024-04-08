@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.20-nullsafety.6
+
+- Upgraded dependencies
+
 ## 0.0.20-nullsafety.5
 
 - Fix `dayTimeToDateTime` (https://github.com/lejard-h/google_maps_webservice/issues/113)
